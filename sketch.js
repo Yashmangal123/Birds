@@ -302,7 +302,7 @@ function preload(){
           startAni.addImage(startani2);
         }
   
-        if(block.x > 580){
+        if(block.x > 480){
           startAni.addImage(startani3);
         }
         
